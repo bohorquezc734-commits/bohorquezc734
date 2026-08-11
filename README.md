@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner animado -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Arturo%20Bohórquez&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Carlos%20Bohórquez&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 
   <h2>👨‍💻 Full-Stack & Backend Developer (.NET / React)</h2>
   <p>Especializado en <b>Clean Architecture</b>, <b>CQRS</b>, <b>.NET 8</b> y desarrollo web con <b>React</b></p>
