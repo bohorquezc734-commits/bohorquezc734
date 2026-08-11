@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="Banner Carlos Bohórquez" width="80%" />
+  <img src="banner.png" alt="Banner Carlos Bohórquez" width="50%" />
 
   <br/><br/>
   <h2>👨‍💻 Full-Stack & Backend Developer (.NET / React)</h2>
