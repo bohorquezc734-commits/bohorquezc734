@@ -18,10 +18,10 @@
 ### 📬 Contacto
 
 <div align="left">
-  <a href="bohorquezc734@gmail.com">
-    <img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://www.linkedin.com/feed/)" />
+  <a href="mailto:bohorquezc734@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/tu-perfil-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/carlos-bohorquez-49a76632b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
@@ -30,7 +30,7 @@
 
 ### 🔥 Proyecto Destacado: AppDrugs (Sistema de Gestión Farmacéutica)
 
-> **AppDrugs** es una solución Full-Stack enterprise para la gestión integral de inventarios de medicamentos, control de stock, caducidad, autenticación por roles y validación de turnos mediante códigos QR.
+> **AppDrugs** is una solución Full-Stack enterprise para la gestión integral de inventarios de medicamentos, control de stock, caducidad, autenticación por roles y validación de turnos mediante códigos QR.
 
 👉 **[Ver Repositorio del Proyecto](https://github.com/bohorquezc734/AppDrugsV2)**
 
