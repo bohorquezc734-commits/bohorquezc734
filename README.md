@@ -5,6 +5,7 @@
   <h2>👨‍💻 Full-Stack & Backend Developer (.NET / React)</h2>
   <p>Especializado en <b>Clean Architecture</b>, <b>CQRS</b>, <b>.NET 8</b> y desarrollo web con <b>React</b></p>
 </div>
+
 ---
 
 ### 📌 Sobre mí
@@ -14,11 +15,24 @@
 - 🧪 Experiencia implementando pruebas unitarias e integración (**xUnit, NUnit, Moq**).
 - 📍 Ubicado en **Colombia 🇨🇴**.
 
+### 📬 Contacto
+
+<div align="left">
+  <a href="mailto:tu-correo@email.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/tu-perfil-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
 ---
 
 ### 🔥 Proyecto Destacado: AppDrugs (Sistema de Gestión Farmacéutica)
 
 > **AppDrugs** es una solución Full-Stack enterprise para la gestión integral de inventarios de medicamentos, control de stock, caducidad, autenticación por roles y validación de turnos mediante códigos QR.
+
+👉 **[Ver Repositorio del Proyecto](https://github.com/bohorquezc734/AppDrugsV2)**
 
 #### 🛠️ Arquitectura y Tecnologías
 - **Backend (.NET 8):** Construido bajo **Clean Architecture** en 4 capas (Domain, Application, Infrastructure, API).
@@ -55,6 +69,15 @@
   <img src="https://img.shields.io/badge/xUnit-5C2D91?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NUnit-25A162?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Moq-gray?style=for-the-badge" />
+</div>
+
+#### **Herramientas & Control de Versiones**
+<div align="left">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 </div>
 
 ---
