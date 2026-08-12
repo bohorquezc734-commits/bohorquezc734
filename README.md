@@ -19,7 +19,7 @@
 
 <div align="left">
   <a href="bohorquezc734@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://www.linkedin.com/feed/)" />
   </a>
   <a href="https://linkedin.com/in/tu-perfil-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
