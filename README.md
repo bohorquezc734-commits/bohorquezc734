@@ -30,7 +30,7 @@
 
 ### 🔥 Proyecto Destacado: AppDrugs (Sistema de Gestión Farmacéutica)
 
-> **AppDrugs** is una solución Full-Stack enterprise para la gestión integral de inventarios de medicamentos, control de stock, caducidad, autenticación por roles y validación de turnos mediante códigos QR.
+> **AppDrugs** es una solución Full-Stack enterprise para la gestión integral de inventarios de medicamentos, control de stock, caducidad, autenticación por roles y validación de turnos mediante códigos QR.
 
 👉 **[Ver Repositorio del Proyecto](https://github.com/bohorquezc734/AppDrugsV2)**
 
@@ -85,6 +85,10 @@
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bohorquezz734-commits&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bohorquezz734-commits&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/bohorquezc734">
+    <img src="https://img.shields.io/github/followers/bohorquezc734?label=Seguidores&style=for-the-badge&color=0078D4&logo=github" />
+  </a>
+  <a href="https://github.com/bohorquezc734/AppDrugsV2">
+    <img src="https://img.shields.io/github/stars/bohorquezc734/AppDrugsV2?label=Estrellas%20AppDrugs&style=for-the-badge&color=5C2D91&logo=github" />
+  </a>
 </div>
