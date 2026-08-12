@@ -18,7 +18,7 @@
 ### 📬 Contacto
 
 <div align="left">
-  <a href="mailto:tu-correo@email.com">
+  <a href="bohorquezc734@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/tu-perfil-linkedin" target="_blank">
